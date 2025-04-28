@@ -1,0 +1,10 @@
+body {
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.5),
+      rgba(81, 130, 190, 0.5)
+    ),
+    url("background-image.png");
+  background-position: center;
+  background-attachment: fixed;
+  background-size: auto; /* keeps original size */
+}
